@@ -22,3 +22,5 @@ git clone https://github.com/timsaya/luci-app-bandix package/luci-app-bandix
 git clone https://github.com/timsaya/openwrt-bandix package/openwrt-bandix
 
 git clone https://github.com/jerrykuku/luci-theme-argon package/luci-theme-argon
+git clone https://github.com/EasyTier/luci-app-easytier package/luci-app-easytier
+
